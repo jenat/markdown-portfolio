@@ -1,6 +1,4 @@
-1.Watching series
-2.Playing
-  1.Cricket
-  2.Football
-  3.Badminton
-
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
